@@ -12,7 +12,7 @@ public class Abteilung {
     private SortedSet<Mitarbeiter> mitarbeiterSet;
     private Manager leiter;
 
-    private int test;
+    private int test2;
 
     public String getName() {
         return name;
