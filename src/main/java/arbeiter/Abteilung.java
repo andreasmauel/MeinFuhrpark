@@ -12,6 +12,8 @@ public class Abteilung {
     private SortedSet<Mitarbeiter> mitarbeiterSet;
     private Manager leiter;
 
+    private int test;
+
     public String getName() {
         return name;
     }
